@@ -21,117 +21,6 @@
     },
 
 
-
-
-
-
-        {
-            "key": "一起看 ",
-            "name": "🍣 一起 ",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-    
-         {
-            "key": "Kuaikan",
-            "name": "💫 快看 ",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
- 
-        {
-            "key": "业余采集A",
-            "name": "♻ 业余云自营 ",
-            "type": 1,
-            "api": "http://ys.540734621.xyz/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "短剧",
-                "电影",
-                "电视剧",
-                "动漫",
-                "综艺",
-                "记录片",
-                "体育"
-            ]
-        },
-  
-
-         {
-            "key": "光速资源",
-            "name": "☄ 光速.云播 ",
-            "type": 1,
-            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "大陆剧",
-                "港澳剧",
-                "综艺",
-                "动漫"
-            ]
-        },
- 
-        {
-            "key": "快车资源",
-            "name": "🚘 快车.云播 ",
-            "type": 1,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "国产剧",
-                "战争片",
-                "动作片",
-                "香港剧"
-            ]
-        },
-
-
-        {
-            "key": "百度资源",
-            "name": "🐚 百度.云播 ",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "大陆剧",
-                "战争片",
-                "动作片",
-                "喜剧片"
-            ]
-        },
-
-        {
-            "key": "360yingshi",
-            "name": "🌻 360影视 ",
-            "type": 3,
-            "api": "./yydf/drpy2.min.js",
-            "ext": "./yydf/360yinshi.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-
-
-
-
-
-
-  
-
-
   
 {  "key": "直播转点播1",   "name": "请勿相信视频内广告",   "type": 3,   "api": "https://k.hhyyqq.com/uploads/itvbox/js/星云直播转点播.js",    "ext": "https://k.hhyyqq.com/uploads/itvbox/livewendang/直播.txt" },
 
@@ -847,6 +736,109 @@
 
 
     
+
+
+
+        {
+            "key": "一起看 ",
+            "name": "🍣 一起 ",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+    
+         {
+            "key": "Kuaikan",
+            "name": "💫 快看 ",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+ 
+        {
+            "key": "业余采集A",
+            "name": "♻ 业余云自营 ",
+            "type": 1,
+            "api": "http://ys.540734621.xyz/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "短剧",
+                "电影",
+                "电视剧",
+                "动漫",
+                "综艺",
+                "记录片",
+                "体育"
+            ]
+        },
+  
+
+         {
+            "key": "光速资源",
+            "name": "☄ 光速.云播 ",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "大陆剧",
+                "港澳剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+ 
+        {
+            "key": "快车资源",
+            "name": "🚘 快车.云播 ",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "战争片",
+                "动作片",
+                "香港剧"
+            ]
+        },
+
+
+        {
+            "key": "百度资源",
+            "name": "🐚 百度.云播 ",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "大陆剧",
+                "战争片",
+                "动作片",
+                "喜剧片"
+            ]
+        },
+
+        {
+            "key": "360yingshi",
+            "name": "🌻 360影视 ",
+            "type": 3,
+            "api": "./yydf/drpy2.min.js",
+            "ext": "./yydf/360yinshi.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+
+
 
 
 
