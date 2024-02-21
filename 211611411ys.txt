@@ -8,42 +8,11 @@
 
 
 
-"sites":[
-   {
-      "key": "南瓜",
-      "name": "点击👉更换视频接口",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    
-    
-       {
-      "key": "csp_Nmys",
-      "name": "请勿相信视频内广告",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      
-  //     "jar":"https://ghproxy.net/https://raw.githubusercontent.com/211611411/xgg/main/Yoursmile.jar;md5;a8b67c6e7ae00f56c43f6946764f0102",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
-    },
-
-
-
-
-    
-    
- 
+"sites":[  
 
         {
       "key": "蝴蝶",
-      "name": " ❤蝴蝶┃App",
+      "name": " 点击👉更换视频接口",
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 1,
@@ -60,7 +29,7 @@
 
 
   
-{  "key": "直播转点播1",   "name": "📡电视的直播",   "type": 3,   "api": "https://k.hhyyqq.com/uploads/itvbox/js/星云直播转点播.js",    "ext": "https://k.hhyyqq.com/uploads/itvbox/livewendang/直播.txt" },
+{  "key": "直播转点播1",   "name": "请勿相信视频内广告",   "type": 3,   "api": "https://k.hhyyqq.com/uploads/itvbox/js/星云直播转点播.js",    "ext": "https://k.hhyyqq.com/uploads/itvbox/livewendang/直播.txt" },
 
  
     {
@@ -1202,11 +1171,12 @@
 
    {
       "key": "畅梦",
+      "name": "接口失效",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
     },
-{"key": "解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星影视解说.json"}
+{"key": "解说","name": "游戏解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星影视解说.json"}
 
 ],
 
