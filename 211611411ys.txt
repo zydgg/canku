@@ -652,16 +652,6 @@
     },
 
 
-{
-      "key": "切片",
-      "name": "切片官采",
-      "type": 1,
-      "api": "http://111.180.191.20:3636/api.php/provide/vod/from/SLNB/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    
-    },
 
 
 
@@ -713,10 +703,6 @@
  {"key":"6V电影","name": "磁力6V电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://k.hhyyqq.com/uploads/itvbox/json/6v电影 (1).json","jar":"https://k.hhyyqq.com/uploads/itvbox/jar/小暴脾气10.jar;md5;ea2690fc66083afe1431071968e60395" },  
 
 
-  {"key":"1080","name": "1080","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://k.hhyyqq.com/uploads/itvbox/json/1080看视界XBP.json","jar":"https://k.hhyyqq.com/uploads/itvbox/jar/小暴脾气10.jar;md5;ea2690fc66083afe1431071968e60395" }, 
-   {"key":"极速","name": "极速","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://k.hhyyqq.com/uploads/itvbox/json/极速影视XBPQ.json","jar":"https://k.hhyyqq.com/uploads/itvbox/jar/小暴脾气10.jar;md5;ea2690fc66083afe1431071968e60395" }, 
- {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
-
 
 
 
@@ -765,16 +751,6 @@
    
     
    
-    {
-      "key": "橘子",
-      "name": "🍊橘子┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
-    },
   
 
 
@@ -798,62 +774,10 @@
 
 
     
-     {
-      "key": "大漠资源",
-      "name": "大漠资源",
-      "type": 1,
-      "api": "https://damozy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
 
 
     
- {
-      "key": "kuake",
-      "name": "️夸克资源",
-      "type": 1,
-      "api": "http://kuakezy1.com/api.php/provide/vod/",
-    //   "playurl": "https://w.hhyyqq.com/?url=",
-   // "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-      "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "日本剧",
-        "台湾剧",
-        "泰国剧",
-        "海外剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "大陆综艺",
-        "欧美综艺",
-         "日韩综艺",
-        "港台综艺",
-         "国产动漫",
-        "欧美动漫",
-         "日韩动漫",
-        "港台动漫",
-        "海外动漫",
-        "足球",
-         "篮球",
-        "网球",
-        "斯洛克"
-        
-      ]
-    },   
 
     {
             "key": "非凡资源",
@@ -951,28 +875,11 @@
 
 
 
-{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
-{"key": "MV","name": "🌈哔哩MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星MTV.json"},
 
 
 
 {"key": "歌舞","name": "💃印度歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/印度歌舞.json"},
-{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星舞蹈.json"},
 
-
-    {
-      "key": "app_轻简",
-      "name": "🚈┃轻简┃影视",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-{"key":"qq2k", "name":"莫名影院", "type":3, "playerType":2, "api":"csp_AppYsV2", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://www.gsjtlxy.top/xgapp.php/v3/"}, 
     {
       "key": "drpy_js_FreeOK",
       "name": "FreeOK[js]",
@@ -984,25 +891,10 @@
     
   {"key":"csp_Dm84","name":"🚌动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Dm84","name":"🌸┃巴士┃动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
 
-
-{"key":"csp_Yj1211","name":"📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-{"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/虎牙直播.json"},
-{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/斗鱼直播.json"},
-    {
-      "key": "网易CC",
-      "name": "🐠网易CC",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E7%BD%91%E6%98%93CC.json"
-    },
     {"key":"童趣","name":"🍭┃童趣┃儿童","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E7%AB%A5%E8%B6%A3.js"},
     {"key":"幼儿启蒙","name":"🌏┃幼儿┃启蒙","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/幼儿启蒙.json","jar": ""},      
    {
@@ -1032,7 +924,6 @@
 
 
 
-{"key":"幼儿乐园","name":"📚幼儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/41336/%E5%B9%BC%E5%84%BF%E4%B9%90%E5%9B%AD.json?sign=b0VKDEh6TdxrOrwTdNQDmQunv9Jtxwn9u6LZhvNI4Uk%3D%3A0"},
 
    {
       "key": "dr_兔小贝",
@@ -1109,9 +1000,6 @@
 {"key": "PS","name": "🎉PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"},
 {"key":"潇洒软件","name":"🅱教程","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/软件教程.json","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key": "外语","name": "🏠外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩外语.json"},
-{"key": "学堂","name": "🍉学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星学堂.json"},
-{"key": "足球","name": "⚽️足球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星球星.json"},
-{"key": "体育","name": "💋哔哩体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星体育.json"},
 
 
   {
@@ -1164,15 +1052,6 @@
         "标题": "title=\"&&\"",
         "链接": "href=\"&&\""
       }
-    },
-    {
-      "key": "MV_vod",
-      "name": "🎸明星MV",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
     },
     {
       "key": "酷奇MV",
